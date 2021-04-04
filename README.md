@@ -10,5 +10,8 @@ This is a first project of mine to train my skills in Unity to then later move o
 ## Issues
 If you were to find any issues then please post them in the issues page, write which version you are using and let me know how to recreate the bug.
 
+## Known issues
+Ben model not disappearing after the cutscene of entering the building. (Since Prerelease 3)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
