@@ -1,0 +1,22 @@
+Alpha 0 WebGL:
+Only able to walk forward, no jumping, desynced step sounds.
+
+Alpha Pre-Release 1:
+Added jumping.
+Prevented falling through steep hills much better but still possible.
+Added A, S & D to walking controls.
+Half-fixed step desync issue.
+
+Alpha Pre-Release 2:
+Complete step desync issue fix.
+Updated movement method from manual position updating to CharacterController.
+Falling through steep hills is no longer possible.
+Walking through walls is no longer possible.
+Jumping is way more smooth.
+Landing sound not playing sometimes is fixed.
+Bug with landing on an object other than the terrain which would create an error and not play a landing sound (which would prevent further jumping) until you stepped on the terrain again is fixed.
+Event in the building furthest away is unfinished but has some work done to it.
+
+Alpha Pre-Release 3:
+Finished the event in the building.
+Fixed ben rotation when teleporting near the player.
