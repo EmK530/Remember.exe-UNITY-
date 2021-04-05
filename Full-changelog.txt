@@ -20,3 +20,9 @@ Event in the building furthest away is unfinished but has some work done to it.
 Alpha Pre-Release 3:
 Finished the event in the building.
 Fixed ben rotation when teleporting near the player.
+
+v0.4-alpha:
+Improved the random chance furthest building event where a glitch sound would play by adding the missing flashing screen before it.
+Changed the black screen text to not be bold.
+Added the "I'm glad you've come" event when starting the game at a 1/4 chance.
+Changed the ben glitch sound event chance from 1/2 to 1/4.
